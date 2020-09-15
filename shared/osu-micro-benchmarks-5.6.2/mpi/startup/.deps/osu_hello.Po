@@ -1,0 +1,59 @@
+osu_hello.o osu_hello.o: osu_hello.c \
+  /cineca/prod/opt/compilers/mvapich2-gdr/2.3.4/xl--16.1.1--binary/include/mpi.h \
+  /m100/prod/opt/compilers/xl/16.1.1/binary/xlC/16.1.1/include/stdint.h \
+  /usr/include/stdint.h /usr/include/features.h \
+  /usr/include/stdc-predef.h /usr/include/sys/cdefs.h \
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+  /usr/include/gnu/stubs-64-v2.h /usr/include/bits/wchar.h \
+  /cineca/prod/opt/compilers/mvapich2-gdr/2.3.4/xl--16.1.1--binary/include/mpio.h \
+  /usr/include/stdio.h \
+  /m100/prod/opt/compilers/xl/16.1.1/binary/xlC/16.1.1/include/stddef.h \
+  /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+  /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+  /m100/prod/opt/compilers/xl/16.1.1/binary/xlC/16.1.1/include/stdarg.h \
+  /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+  /usr/include/bits/stdio.h
+
+/cineca/prod/opt/compilers/mvapich2-gdr/2.3.4/xl--16.1.1--binary/include/mpi.h:
+
+/m100/prod/opt/compilers/xl/16.1.1/binary/xlC/16.1.1/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64-v2.h:
+
+/usr/include/bits/wchar.h:
+
+/cineca/prod/opt/compilers/mvapich2-gdr/2.3.4/xl--16.1.1--binary/include/mpio.h:
+
+/usr/include/stdio.h:
+
+/m100/prod/opt/compilers/xl/16.1.1/binary/xlC/16.1.1/include/stddef.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/m100/prod/opt/compilers/xl/16.1.1/binary/xlC/16.1.1/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
